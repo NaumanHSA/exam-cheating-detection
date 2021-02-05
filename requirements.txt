@@ -1,0 +1,10 @@
+opencv_python
+numpy==1.19.5
+matplotlib==3.3.3
+tqdm==4.19.9
+Pillow
+win32gui
+win32ui
+win32con
+ctypes
+face_recognition
